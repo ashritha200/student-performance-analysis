@@ -1,6 +1,3 @@
-# student-performance-analysis
-Data analysis of student performance using Python 
-
 # 📊 Student Performance Data Analysis
 
 ## 📌 Project Overview
